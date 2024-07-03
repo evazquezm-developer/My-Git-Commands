@@ -28,3 +28,6 @@
 
 ##### Todos los archivos del Staging_Area se copian al Git_Repository.
 `git commit -m "Version inicial"`
+
+##### Restaura el archivo que fué modificado. (Descarta los cambios)
+`git restore myfile.txt`
