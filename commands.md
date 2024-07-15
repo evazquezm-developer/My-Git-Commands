@@ -31,3 +31,6 @@
 
 ##### Restaura el archivo que fué modificado. (Descarta los cambios)
 `git restore myfile.txt`
+
+##### Cambia a nueva rama
+`git checkout new_branch`
