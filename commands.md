@@ -34,3 +34,6 @@
 
 ##### Cambia a nueva rama
 `git checkout new_branch`
+
+##### Listado de todas las ramas
+`git branch -a`
